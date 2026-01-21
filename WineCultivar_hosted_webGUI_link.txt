@@ -1,0 +1,6 @@
+Name: Adelekan Igbagboyemi Mary
+Matric Number: 22CC031793
+Machine Learning Algorithm Used: Neural Networks
+Model Persistence: Joblib
+Live URL:https://wine-cultivar-prediction-35ov.onrender.com
+GitHub link: https://github.com/igbagboyemiii/wine-cultivar-prediction.git
